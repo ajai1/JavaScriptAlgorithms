@@ -1,0 +1,44 @@
+[
+  {
+    "value": "fruit",
+    "children": [
+      {
+        "value": "orange",
+        "children": []
+      }
+    ]
+  },
+  {
+    "value": "banana",
+    "children": [
+      {
+        "value": "pomegranate",
+        "children": [
+          {
+            "value": "pineapple",
+            "children": []
+          },
+          {
+            "value": "apple",
+            "children": [
+              {
+                "value": {
+                  "value": "berry"
+                },
+                "children": [
+                  {
+                    "value": {
+                      "value": "custard apple"
+                    }
+                  },
+                  2,
+                  5
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
